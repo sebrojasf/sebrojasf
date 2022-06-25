@@ -2,4 +2,4 @@
 
 
 - 🔭 I’m currently working for Linets
-- 🌱 I’m currently learning Dockers, AWS, a more
+- 🌱 I’m currently learning Dockers, AWS, and more
